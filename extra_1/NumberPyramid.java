@@ -8,7 +8,6 @@ public class NumberPyramid {
 
 		int thisInt = 0;
 		Scanner kb = new Scanner(System.in);
-		
 		System.out.println("How high would you like the pyramid to go?");
 		
 		if (kb.hasNextInt())
